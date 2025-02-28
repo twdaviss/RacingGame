@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/Racing/BP_Checkpoint.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/T7/OU1DEJ8G3I7W02LT3LCO5T.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset",
+				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/2X/4T824NPQWFAW1GWLV58P9A.uasset"
+			]
+		}
+	]
+}
