@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/taylo/Documents/GitHub/RacingGame/VehicleTest/Content/VehicleTemplate/Blueprints/SpeedBoost.uasset",
+				"C:/Users/taylo/Documents/GitHub/RacingGame/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/taylo/Documents/GitHub/RacingGame/VehicleTest/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/taylo/Documents/GitHub/RacingGame/VehicleTest/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/69/RD8NIQGSUWFCXEASQ45VCA.uasset",
+				"C:/Users/taylo/Documents/GitHub/RacingGame/VehicleTest/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/J9/TLC27CJFZ6M8VVBOTGRBUJ.uasset",
 				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
 				"C:/Users/LCV2122577/Documents/Unreal Projects/VehicleTest/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
